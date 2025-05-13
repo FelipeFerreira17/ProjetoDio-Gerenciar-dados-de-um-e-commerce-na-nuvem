@@ -11,7 +11,7 @@ No portal do Azure vá em Resource groups e crie um.
 
 ## Criação do Azure SQL
 
-No portal do Azure, vá no seu grupo de recursos criados e aperte em create
+No portal do Azure, vá no seu grupo de recursos criado e aperte em create
 
 Selecione o Azure Database.
 
