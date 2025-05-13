@@ -12,8 +12,28 @@ No portal do Azure vá em Resource groups e crie um.
 ##Criação do Azure SQL
 
 No portal do Azure, vá no seu grupo de recursos criados e aperte em create
+
 Selecione o Azure Database.
+
 Lá criaremos um single database.
-Criarenos no modo Serverless
+
+Iremos criar no modo Serverless.
+
 ![2025-05-10](https://github.com/user-attachments/assets/6272e739-84db-4277-be9c-6ab0a88f8d36)
+
 ![2025-05-10 (5)](https://github.com/user-attachments/assets/35709231-d4e9-4ad8-99a7-aaa5b96ad48e)
+
+##Criação do Storage Account
+
+###Nessa etapa criaremos o Storage para armazenar as imagens.
+
+Vá em storage account e crie uma conta de armazenamento.
+
+Com o Storage criado, crie um container blob e dê um nome a ele.
+
+Com o Azure SQL e o Storage criados devemos ter a seguinte estrutura:
+
+![2025-05-10 (1)](https://github.com/user-attachments/assets/4df7ae9e-e1b6-4515-a9d2-ae8a0f24db48)
+
+
+
