@@ -52,6 +52,12 @@ Feito isso teste o código e se deu tudo certo, teremos uma tela assim:
 ![2025-05-13](https://github.com/user-attachments/assets/2cc3e240-e965-469d-b00c-e96313fdf058)
 
 
+Faça o cadastro de alguns produtos.
+
+Volte para o portal do Azure e veja no Storage que as imagens estão sendo salvas lá.
+
+![2025-05-13 (3)](https://github.com/user-attachments/assets/875c517c-cfbb-4b6c-9e7a-7545be010516)
+
 
 
 
