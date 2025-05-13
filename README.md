@@ -35,5 +35,15 @@ Com o Azure SQL e o Storage criados devemos ter a seguinte estrutura:
 
 ![2025-05-10 (1)](https://github.com/user-attachments/assets/4df7ae9e-e1b6-4515-a9d2-ae8a0f24db48)
 
+##Trabalhar no código para gerar uma interface de e-commerce
+
+###Nessa etapa vamos trabalhar no código fornecido pelo professor da DIO para criar a interface, podendo assim fazer o cadastro dos produtos.
+
+Imagem da parte do código
+
+![2025-05-13 (2)](https://github.com/user-attachments/assets/4c0902f7-09cc-4870-a862-dc5ead2e090d)
+
+O código completo está no [GitHub da DIO](https://github.com/digitalinnovationone/Microsoft_Application_Platform/tree/main/Labs/Lab01)
+
 
 
